@@ -6,13 +6,14 @@ Chemical Physics major at Tufts University (Class of 2027) | Metrology Retention
 
 Featured Projects
 
-SMA Crossover BacktesterProduction‑ready Python framework for designing, testing, and optimizing SMA crossover strategies with interactive dashboards and automated parameter sweeps.
+[TIP3P Water Simulation](https://github.com/Ryan-Cooley/TIP3P-Water-Simulation): Molecular‑dynamics simulation of water boxes using OpenMM, with trajectory analysis in VMD to study water interactions.
 
-VBA Data Processing AutomationSuite of VBA macros that automated Excel‑based data processing and reporting, cutting end‑to‑end task time by over 1200% during my Entegris internship.
+[Quant Price Checker](https://github.com/Ryan-Cooley/quant-option-pricer)
+Python project simulating European call option pricing via Monte Carlo methods: geometric Brownian motion, yfinance data extraction, risk metrics analysis, and visualization.
 
-TIP3P Water SimulationMolecular‑dynamics simulation of water boxes using OpenMM, with trajectory analysis in VMD to study water interactions.
+[SMA Crossover Backtester](https://github.com/Ryan-Cooley/sma_backtester): Production-ready Python framework for designing, testing, and optimizing SMA crossover strategies with interactive dashboards and automated parameter sweeps.
 
-Personal PortfolioShowcase of my coding projects, technical write‑ups, and professional experiences.
+[VBA Data Processing Automation](https://github.com/Ryan-Cooley/VBA_Automation): Suite of VBA macros that automated Excel‑based data processing and reporting, cutting end‑to‑end task time by over 1200% during my Entegris internship.
 
 Skills
 
